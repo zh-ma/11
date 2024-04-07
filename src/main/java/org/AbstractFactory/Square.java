@@ -1,4 +1,4 @@
-package org.example;
+package org.AbstractFactory;
 
 public class Square implements Shape {
  

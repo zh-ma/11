@@ -1,4 +1,4 @@
-package org.example1;
+package org.Factory;
 
 public interface Shape {
     void draw();
